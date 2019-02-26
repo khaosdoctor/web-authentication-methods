@@ -10,3 +10,4 @@ All examples can be run using `node index.js`, if it requires further configurat
 
 - [Basic Auth](./basic)
 - [Digest Auth](./digest)
+- [JWT](./jwt)
