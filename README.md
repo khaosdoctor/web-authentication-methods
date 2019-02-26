@@ -6,7 +6,7 @@ This is part of a talk I gave at [NodeBR's 46th meetup](https://www.meetup.com/n
 
 ## Summary
 
-All examples can be run using `node index.js`, if it requires further configuration a README file will be present along with it.
+All examples can be run using `node index.js`, if it requires further configuration a README file will be present along with it. All usernames are **lucas** and all passwords are **secret**.
 
 - [Basic Auth](./basic)
--
+- [Digest Auth](./digest)
